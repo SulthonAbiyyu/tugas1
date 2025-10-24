@@ -1,3 +1,3 @@
 # tugas1
 
-Tugas Pertama Matkul Pemrograman Mobile
+Tugas Kedua Matkul Pemrograman Mobile
